@@ -1,0 +1,5 @@
+workspace {
+  uid = "b1b346b0-22da-4045-a4ac-f6f59748aade"
+  name = "multi_account_demo"
+  staleStateThresholdMinutes = undefined
+}
